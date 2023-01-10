@@ -1,5 +1,5 @@
 # Seattle-Airbnb-Listing-data-Analysis
-A data science project that uses the CRISP - DM Process to analyse Airbnb listing data in Seattle.
+A data science project that uses the CRISP - DM Process to analyse Airbnb listing data in Seattle. See the [link](https://medium.com/@rasimhi/seattle-airbnb-data-how-to-get-the-best-accommodation-rate-for-your-seattle-getaway-5df2c11cdfb2) to the accompanying medium post of this project 
 
 ## Project
 This project will use the open-source Airbnb data which describes the Seattle, WA homestays listing activity. This project will be used as a part of the "Become a data scientist Nanodegree"  program of Udacity. 
